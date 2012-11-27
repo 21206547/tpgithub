@@ -1,0 +1,14 @@
+
+[802-3-ethernet]
+mac-address=90:FB:A6:E5:5A:91
+
+[connection]
+id=Ethernet automatique
+uuid=93dc84d7-6e7f-444e-b66d-f7d5f6607059
+type=802-3-ethernet
+
+[ipv6]
+method=auto
+
+[ipv4]
+method=auto
